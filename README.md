@@ -1,2 +1,2 @@
 # Django-Site
-Website using the Django framework.
+Website using the Django/Python framework.
